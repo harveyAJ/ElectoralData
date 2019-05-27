@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Collaterals", "Collaterals", "{D3659C1D-8DCF-494F-9B83-F4AA7D3227F7}"
+	ProjectSection(SolutionItems) = preProject
+		Collaterals\ElectoralDataCodeChallenge.docx = Collaterals\ElectoralDataCodeChallenge.docx
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectoralData", "ElectoralData\ElectoralData.csproj", "{9B89762A-676C-453A-824E-A5650787FAFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectoralData.ConsoleApp", "ElectoralData.ConsoleApp\ElectoralData.ConsoleApp.csproj", "{D27B1EE3-AC45-4142-9DF7-FCD718EABFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B89762A-676C-453A-824E-A5650787FAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B89762A-676C-453A-824E-A5650787FAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B89762A-676C-453A-824E-A5650787FAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B89762A-676C-453A-824E-A5650787FAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27B1EE3-AC45-4142-9DF7-FCD718EABFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27B1EE3-AC45-4142-9DF7-FCD718EABFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27B1EE3-AC45-4142-9DF7-FCD718EABFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27B1EE3-AC45-4142-9DF7-FCD718EABFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0B2623-C6B7-42D7-97AE-98929D5376A9}
+	EndGlobalSection
+EndGlobal
